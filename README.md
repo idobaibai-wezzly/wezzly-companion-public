@@ -8,7 +8,9 @@
 [![License](https://img.shields.io/badge/license-Proprietary-red.svg)](#license)
 [![Twitter Follow](https://img.shields.io/twitter/follow/WezzlyHQ?style=social)](https://x.com/WezzlyHQ)
 
-![Wezzly Companion](assets/wezzly.svg)
+<p align="center">
+  <img src="assets/wezzly.svg" alt="Wezzly Companion" width="200">
+</p>
 
 ## 🎬 Demo
 
