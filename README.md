@@ -9,7 +9,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/WezzlyHQ?style=social)](https://x.com/WezzlyHQ)
 
 <p align="center">
-  <img src="assets/wezzly.svg" alt="Wezzly Companion" width="200">
+  <img src="assets/wezzly.svg" alt="Wezzly Companion" width="250">
 </p>
 
 ## 🎬 Demo
