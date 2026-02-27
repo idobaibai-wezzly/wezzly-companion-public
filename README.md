@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/license-Proprietary-red.svg)](#license)
 [![Twitter Follow](https://img.shields.io/twitter/follow/WezzlyHQ?style=social)](https://x.com/WezzlyHQ)
 
-![Wezzly Companion](assets/wezzly.png)
+![Wezzly Companion](assets/wezzly.svg)
 
 ## 🎬 Demo
 
