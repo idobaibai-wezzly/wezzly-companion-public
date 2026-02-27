@@ -87,6 +87,14 @@ It watches your screen in real-time, understands what you're doing, and helps wi
 
 **Pro tip:** Enable Screen Awareness in settings to let Wezzly see what you're working on.
 
+### 🔐 Your Privacy, Guaranteed
+
+- **100% Local** — Wezzly runs entirely on your machine. No servers, no cloud, no tracking.
+- **Direct to Provider** — Screen data goes straight to your chosen AI (OpenAI, Anthropic, etc.) using YOUR API key. We never see it.
+- **Secure Storage** — API keys stored in your system's native keychain (macOS Keychain / Windows Credential Manager), not in plain text.
+- **No Telemetry** — We don't collect analytics, usage data, or anything else. Zero.
+- **You're in Control** — Screen capture only runs when you enable it. Turn it off anytime.
+
 ---
 
 ## 🧠 Supported AI Providers
