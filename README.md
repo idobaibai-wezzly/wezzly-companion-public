@@ -144,7 +144,3 @@ Built with modern, performant technologies:
 ## 📄 License
 
 Proprietary — © 2026 Ido Ben Aroya
-
----
-
-> **Note:** Wezzly Companion is a desktop AI assistant. [Wezzly SEO](https://wezzly.com) is a separate product.
