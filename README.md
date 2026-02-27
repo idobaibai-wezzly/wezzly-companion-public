@@ -122,7 +122,7 @@ Built with modern, performant technologies:
 
 ## License
 
-Proprietary — © 2025 Ido Ben Aroya
+Proprietary — © 2026 Ido Ben Aroya
 
 ---
 
