@@ -52,7 +52,7 @@ It watches your screen in real-time, understands what you're doing, and helps wi
 ### 👁️ Vision & Awareness
 - 🖥️ **Real-Time Screen Vision** — Continuous screenshots every 1-2 seconds. Sees exactly what you see.
 - 🚀 **Turbo Vision Mode** — 4x faster capture (500ms) for rapid screen changes and fast-paced content.
-- 🎬 **Video Understanding** — Analyze video content in real-time with 500ms frame capture. Say "watch this video" to start, "stop" to get analysis and continue chatting, or "edit mode" to end session. Perfect for video editors reviewing footage, tutorial follow-alongs, lecture notes, or any visual content.
+- 🎬 **Video Understanding** — Analyze video content in real-time with 500ms frame capture. Say "watch this video" to start, "stop" to get analysis and continue chatting, or "hard stop" / "exit video" to end video mode. Perfect for video editors reviewing footage, tutorial follow-alongs, lecture notes, or any visual content.
 - 📊 **Chart & Financial Analysis** — Analyze stock charts, crypto graphs, identify patterns, support/resistance, give trading opinions.
 - 🐛 **Visual Code Debugging** — Sees your code errors on screen and helps fix them instantly.
 
