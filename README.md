@@ -49,12 +49,41 @@ It watches your screen in real-time, understands what you're doing, and helps wi
 
 ## ✨ Features
 
-- 🖥️ **Screen Vision** — Sees your screen in real-time. Read text, analyze charts, debug code visually.
-- 🎬 **Video Understanding** — Watch YouTube, tutorials, movies together. Get summaries and insights.
-- 🤖 **Agent Mode** — Execute commands, click, type, automate tasks on your computer.
-- 🧠 **Multi-AI Support** — Works with OpenAI, Anthropic Claude, Google Gemini, Grok, DeepSeek, Ollama & more.
-- 💬 **Always-On Chat** — Floating companion that's always ready to help.
-- 🔒 **Privacy First** — All data stays local. API keys stored securely in your system keychain.
+### 👁️ Vision & Awareness
+- 🖥️ **Real-Time Screen Vision** — Continuous screenshots every 1-2 seconds. Sees exactly what you see.
+- 🎬 **Video Co-Watching** — Watch YouTube, tutorials, movies together. Auto-activates video mode. Get real-time commentary and summaries.
+- 📊 **Chart & Financial Analysis** — Analyze stock charts, crypto graphs, identify patterns, support/resistance, give trading opinions.
+- 🐛 **Visual Code Debugging** — Sees your code errors on screen and helps fix them instantly.
+
+### 🤖 Agent & Automation
+- ⚡ **14+ Native Commands** — Click, type, scroll, run shell commands, open apps, manage files — all powered by Rust.
+- 🔄 **Multi-Step Agent Loops** — Up to 10 iterations of autonomous task completion.
+- ✅ **Smart Confirmations** — Safety dialogs for dangerous actions (delete, sudo, etc.).
+- 🖱️ **Full Desktop Control** — Mouse clicks, keyboard input, scrolling, window management.
+
+### 🧠 Multi-AI & Flexibility
+- 🔌 **8+ AI Providers** — OpenAI, Anthropic Claude, Google Gemini, Grok, DeepSeek, Kimi, Ollama, and custom endpoints.
+- 🔀 **Seamless Switching** — Change AI providers on the fly without losing context.
+- 🏠 **Local Models** — Run completely offline with Ollama support.
+- 🛠️ **Custom Endpoints** — Connect any OpenAI-compatible API.
+
+### 💬 Companion Experience
+- 🫧 **Always-On Floating Companion** — Lives on your desktop, not hidden in a chat window.
+- 🎭 **Self-Aware Personality** — Witty, playful, slightly cocky. Knows it's an AI and owns it.
+- 🗣️ **Ambient Voice Lines** — Random comments based on mood, position, and what you're doing.
+- 🎮 **Interactive Wezzly** — Drag, shake, poke. Wezzly reacts to everything.
+- 👀 **Position Awareness** — Knows when it's moved, minimized, or ignored.
+
+### 🔒 Privacy & Security
+- 💾 **100% Local** — All data stays on your machine. Zero cloud storage.
+- 🔐 **Secure Keychain Storage** — API keys stored in macOS Keychain / Windows Credential Manager.
+- 🚫 **No Telemetry** — We don't collect analytics, usage data, or anything else.
+- 🎯 **Direct to Provider** — Screen data goes straight to your chosen AI using YOUR API key.
+
+### 🖥️ Cross-Platform
+- 🍎 **macOS** — Native Apple Silicon support, signed and notarized.
+- 🪟 **Windows** — Full x64 support with native integration.
+- 🐧 **Linux** — Works with gnome-screenshot or scrot.
 
 ---
 
