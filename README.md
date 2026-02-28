@@ -51,15 +51,24 @@ It watches your screen in real-time, understands what you're doing, and helps wi
 
 ### 👁️ Vision & Awareness
 - 🖥️ **Real-Time Screen Vision** — Continuous screenshots every 1-2 seconds. Sees exactly what you see.
-- 🎬 **Video Co-Watching** — Watch YouTube, tutorials, movies together. Auto-activates video mode. Get real-time commentary and summaries.
+- 🚀 **Turbo Vision Mode** — 4x faster capture (500ms) for rapid screen changes and fast-paced content.
+- 🎬 **Video Understanding** — Watch YouTube, tutorials, movies together. Auto-activates video mode with 500ms frame capture. Get real-time commentary, summaries, and insights.
 - 📊 **Chart & Financial Analysis** — Analyze stock charts, crypto graphs, identify patterns, support/resistance, give trading opinions.
 - 🐛 **Visual Code Debugging** — Sees your code errors on screen and helps fix them instantly.
 
-### 🤖 Agent & Automation
+### 🧠 GOD MODE — Advanced Intelligence
+- 🧩 **Brain Fusion** — Run multiple AI models simultaneously and combine their responses. Get the best of GPT-4, Claude, and Gemini in one answer.
+- 📜 **OCR Memory Palace** — Searchable database of ALL text seen on your screen. Never lose that error message or code snippet again. Stores up to 500 entries.
+- 🎞️ **Vision Memory** — Remembers what Wezzly has seen throughout your session. Reference past screenshots and content (stores last 30 captures).
+- 📡 **Live Broadcasts** — Receive announcements and updates directly from the Wezzly team.
+
+### 🤖 Agent Mode — Full Desktop Automation
 - ⚡ **14+ Native Commands** — Click, type, scroll, run shell commands, open apps, manage files — all powered by Rust.
 - 🔄 **Multi-Step Agent Loops** — Up to 10 iterations of autonomous task completion.
+- 🎯 **Task Agents** — Delegate tasks to multiple AI agents running in parallel.
 - ✅ **Smart Confirmations** — Safety dialogs for dangerous actions (delete, sudo, etc.).
-- 🖱️ **Full Desktop Control** — Mouse clicks, keyboard input, scrolling, window management.
+- 🖱️ **Full Desktop Control** — Mouse clicks, double-clicks, keyboard input, key combos, scrolling, window management.
+- 📂 **File Operations** — Read, write, copy, move, delete files. List directories. Full filesystem access.
 
 ### 🧠 Multi-AI & Flexibility
 - 🔌 **8+ AI Providers** — OpenAI, Anthropic Claude, Google Gemini, Grok, DeepSeek, Kimi, Ollama, and custom endpoints.
@@ -73,12 +82,15 @@ It watches your screen in real-time, understands what you're doing, and helps wi
 - 🗣️ **Ambient Voice Lines** — Random comments based on mood, position, and what you're doing.
 - 🎮 **Interactive Wezzly** — Drag, shake, poke. Wezzly reacts to everything.
 - 👀 **Position Awareness** — Knows when it's moved, minimized, or ignored.
+- 🎓 **Guided Tour** — Interactive onboarding that teaches you all of Wezzly's features.
 
 ### 🔒 Privacy & Security
 - 💾 **100% Local** — All data stays on your machine. Zero cloud storage.
 - 🔐 **Secure Keychain Storage** — API keys stored in macOS Keychain / Windows Credential Manager.
 - 🚫 **No Telemetry** — We don't collect analytics, usage data, or anything else.
 - 🎯 **Direct to Provider** — Screen data goes straight to your chosen AI using YOUR API key.
+- 🛡️ **Command Validation** — Security checks on all shell commands before execution.
+- 📋 **Audit Logging** — Track all agent actions for transparency.
 
 ### 🖥️ Cross-Platform
 - 🍎 **macOS** — Native Apple Silicon support, signed and notarized.
