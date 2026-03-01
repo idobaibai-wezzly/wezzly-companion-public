@@ -93,7 +93,7 @@ It watches your screen in real-time, understands what you're doing, and helps wi
 - 📋 **Audit Logging** — Track all agent actions for transparency.
 
 ### 🖥️ Cross-Platform
-- 🍎 **macOS** — Native Apple Silicon support (see install steps for first launch).
+- 🍎 **macOS** — Native Apple Silicon support, signed and notarized by Apple.
 - 🪟 **Windows** — Full x64 support with native integration.
 - 🐧 **Linux** — Works with gnome-screenshot or scrot.
 
@@ -102,16 +102,11 @@ It watches your screen in real-time, understands what you're doing, and helps wi
 ## 📥 Download
 
 ### macOS (Apple Silicon)
-1. Download `Wezzly Companion_0.1.0_aarch64.dmg` from [**Releases**](https://github.com/idobaibai-wezzly/wezzly-companion-public/releases)
+1. Download `Wezzly.Companion_0.1.0_aarch64.dmg` from [**Releases**](https://github.com/idobaibai-wezzly/wezzly-companion-public/releases)
 2. Open the DMG and drag Wezzly Companion to Applications
-3. **⚠️ Important — Before first launch, open Terminal and run:**
-   ```bash
-   xattr -cr "/Applications/Wezzly Companion.app"
-   ```
-   This removes the macOS quarantine flag. Without this step, you'll see an "app is damaged" error.
-4. Launch and configure your AI provider
+3. Launch and configure your AI provider
 
-⚠️ **macOS build is currently unsigned** — The command above bypasses macOS Gatekeeper. Code signing coming soon.
+✅ **macOS build is signed and notarized by Apple** — Just download, install, and run!
 
 ### Windows (x64)
 1. Download `Wezzly Companion_0.1.0_x64-setup.exe` from [**Releases**](https://github.com/idobaibai-wezzly/wezzly-companion-public/releases)
